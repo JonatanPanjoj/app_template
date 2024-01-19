@@ -1,0 +1,1 @@
+export 'package:app_template/presentation/providers/theme/theme_provider.dart';
